@@ -1,0 +1,16 @@
+{
+  "message.homerun.alreadysetted": "すでに始まっているゲームがあります",
+  "message.homerun.settingsuccess": "準備完了(座標:%1$s)",
+  "message.homerun.tradernotfound": "球の配置に失敗しました。やり直してください",
+  "message.homerun.gamenotsetted": "設定を先にしてください(/homerun setting x y z)",
+  "message.homerun.notrader": "球が見つかりません。再度設定してください",
+  "message.homerun.gamestart": "ゲームスタート!(時間: %1$s)",
+  "message.homerun.alreadystopped": "進行中のゲームはありません",
+  "message.homerun.gamestopped": "ゲームを中止しました",
+  "message.homerun.notradererror": "球を消失しました。再度設定してください",
+  "message.homerun.timeleft": "残り%1$s秒",
+  "message.homerun.stickname": "ホームランバッド",
+  "message.homerun.starthomerun": "ホームランを打て!",
+  "message.homerun.waterlanding": "池ポチャ(´•ω•̥`)",
+  "message.homerun.result": "ホームラン! 飛距離: %1$s"
+}

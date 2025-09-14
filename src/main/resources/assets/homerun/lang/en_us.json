@@ -1,0 +1,16 @@
+{
+  "message.homerun.alreadysetted": "",
+  "message.homerun.settingsuccess": "",
+  "message.homerun.tradernotfound": "",
+  "message.homerun.gamenotsetted": "",
+  "message.homerun.notrader": "",
+  "message.homerun.gamestart": "",
+  "message.homerun.alreadystopped": "",
+  "message.homerun.gamestopped": "",
+  "message.homerun.notradererror": "",
+  "message.homerun.timeleft": "",
+  "message.homerun.stickname": "",
+  "message.homerun.starthomerun": "",
+  "message.homerun.waterlanding": "",
+  "message.homerun.result": ""
+}
